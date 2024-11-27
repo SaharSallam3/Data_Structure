@@ -21,7 +21,7 @@ class Queue {
         /// ----------------------------------------- enQueue ------------------------------------///
 
         void enQueue(int data) {
-            if (rear == size - 1) {
+            if (rear == size - 1) { /// Check if the queue is full
                 cout << "Queue is full, cannot enqueue " << data << endl;
             } else {
                 if (front == -1) {
