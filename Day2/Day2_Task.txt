@@ -1,0 +1,3 @@
+Day2 - Stack & Queue
+1- Implement stack using linked list [push,pop,peek,Display]
+2- Implement Queue using array [enQueue, deQueue, Getfront, GetRear,display]
